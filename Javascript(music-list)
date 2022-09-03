@@ -1,4 +1,4 @@
-et allMusic = [
+let allMusic = [
   {
     name: "TOOFAN - KGF 2",
     artist: "Deepak-blue",
